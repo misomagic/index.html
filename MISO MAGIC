@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miso Magic</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Miso Magic</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Menú</a></li>
+                <li><a href="#">Nosotros</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h2>Bienvenido a Miso Magic</h2>
+        <p>
+            Ubicado en el corazón de Huancayo, Miso Magic es un destino culinario que se dedica a ofrecer una experiencia auténtica y memorable de la cocina japonesa. Nuestro restaurante se distingue por la calidad excepcional de nuestros platos, preparados con ingredientes frescos y de alta calidad que respetan las técnicas culinarias tradicionales de Japón. Cada visita a Miso Magic es una oportunidad para nuestros clientes de embarcarse en un viaje gastronómico a través de Asia, disfrutando de sabores únicos y auténticos que transportan los sentidos.
+        </p>
+        <p>
+            El ambiente en Miso Magic está diseñado para ser acogedor y estimulante, invitando a los comensales a explorar y apreciar la rica cultura asiática. Nuestro equipo se esfuerza por ofrecer un servicio excepcional, asegurando que cada cliente se sienta valorado y atendido en cada momento de su visita. Nos dirigimos a la población de Huancayo, especialmente a aquellos entre 18 y 40 años, que buscan una experiencia culinaria diferente y emocionante.
+        </p>
+        <p>
+            Nuestra visión es convertirnos en el destino preferido para los amantes de la comida asiática en Huancayo, siendo reconocidos no solo por la excelencia de nuestros platos, sino también por nuestra innovación en la presentación de la gastronomía asiática. En Miso Magic, creemos en la creación de una comunidad de apasionados por la cocina oriental, donde cada plato cuenta una historia y cada comida es una celebración de la tradición y la cultura japonesa.
+        </p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Miso Magic. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
